@@ -1,0 +1,560 @@
+Uri: https://fonts.googleapis.com/css?family=Montserrat:500,600,700,800
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/a0c361a166.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\a0c361a166.js
+Content Type: text/javascript
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\translate_a\element.js
+Content Type: text/javascript
+
+Uri: https://www.empic.ltd/
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=about
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-3.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=account
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-17.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=asset
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-6.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=banking
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-7.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=crypto
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-10.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=deposit
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-18.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=deposit_history
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-21.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=deposit_list
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-20.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=earnings
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-23.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=edit_account
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-24.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=estate
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-11.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=faq
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-8.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=forgot_password
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-15.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=home
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-1.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=license
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-5.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=login
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-12.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=logout
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-16.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=nfp
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-2.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=referallinks
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-26.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=referals
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-25.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=rules
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-14.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=security
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-27.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=signup
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-13.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=support
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-9.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=values
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-4.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=withdraw
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-19.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/?a=withdraw_history
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\index-22.htm
+Content Type: text/html
+
+Uri: https://www.empic.ltd/css/alert/js/jquery.fake-notification.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\css\alert\js\jquery.fake-notification.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/css/bootstrap.min.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/dashboard/css/main.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\css\main.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/dashboard/fonts/icomoonf33bf33b.eot?7qthrd
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\icomoonf33bf33b.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.empic.ltd/dashboard/fonts/icomoonf33bf33b.svg?7qthrd
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\icomoonf33bf33b.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/fonts/icomoonf33bf33b.ttf?7qthrd
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\icomoonf33bf33b.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.empic.ltd/dashboard/fonts/icomoonf33bf33b.woff?7qthrd
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\icomoonf33bf33b.woff
+Content Type: application/font-woff
+
+Uri: https://www.empic.ltd/dashboard/fonts/open-sans/OpenSans-Bold.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\open-sans\OpenSans-Bold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.empic.ltd/dashboard/fonts/open-sans/OpenSans-ExtraBold.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\open-sans\OpenSans-ExtraBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.empic.ltd/dashboard/fonts/open-sans/OpenSans-Light.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\open-sans\OpenSans-Light.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.empic.ltd/dashboard/fonts/open-sans/OpenSans-Regular.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\open-sans\OpenSans-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.empic.ltd/dashboard/fonts/open-sans/OpenSans-SemiBold.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\open-sans\OpenSans-SemiBold.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.empic.ltd/dashboard/fonts/rubik-mono/RubikMonoOne-Regular.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\rubik-mono\RubikMonoOne-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.empic.ltd/dashboard/fonts/style.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\fonts\style.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/dashboard/img/cancel.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\cancel.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/img/consulting.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\consulting.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/img/consulting2.png
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\consulting2.png
+Content Type: image/png
+
+Uri: https://www.empic.ltd/dashboard/img/dashed-circles-dark.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\dashed-circles-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/img/error-screen/stars.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\error-screen\stars.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/img/icon-search.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\icon-search.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/img/lines-bg.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\lines-bg.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/img/lines-bg2.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\lines-bg2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/img/login-bg.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\login-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/dashboard/img/logo.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/img/pattern.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/img/shade.png
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\shade.png
+Content Type: image/png
+
+Uri: https://www.empic.ltd/dashboard/img/user.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\img\user.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/dashboard/js/bootstrap.bundle.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/js/jquery.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/js/main.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/js/modernizr.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\js\modernizr.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/js/moment.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\js\moment.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/apex/apexcharts.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\apex\apexcharts.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/apex/custom/home/customersGraph.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\apex\custom\home\customersGraph.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/apex/custom/home/earningsGraph.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\apex\custom\home\earningsGraph.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/apex/custom/home/ordersGraph.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\apex\custom\home\ordersGraph.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/apex/custom/home/salesGraph.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\apex\custom\home\salesGraph.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/apex/custom/home/sparkline.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\apex\custom\home\sparkline.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/apex/custom/home/visitorsGraph.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\apex\custom\home\visitorsGraph.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/circliful/circliful.custom.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\circliful\circliful.custom.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/circliful/circliful.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\circliful\circliful.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/megamenu/css/megamenu.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\megamenu\css\megamenu.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/dashboard/vendor/megamenu/js/custom.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\megamenu\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/megamenu/js/megamenu.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\megamenu\js\megamenu.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/search-filter/custom-search-filter.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\search-filter\custom-search-filter.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/dashboard/vendor/search-filter/custom-search-filter.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\search-filter\custom-search-filter.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/search-filter/search-filter.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\search-filter\search-filter.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/dashboard/vendor/search-filter/search-filter.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\search-filter\search-filter.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/slimscroll/custom-scrollbar.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\slimscroll\custom-scrollbar.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/dashboard/vendor/slimscroll/slimscroll.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\dashboard\vendor\slimscroll\slimscroll.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/images/bitcoin.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\images\bitcoin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/images/E_2.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\images\E_2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/images/E_3.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\images\E_3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/images/E_5.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\images\E_5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/images/E_8.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\images\E_8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/images/E_9.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\images\E_9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/images/prices-usdt.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\images\prices-usdt.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/media/box-1.png
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\box-1.png
+Content Type: image/png
+
+Uri: https://www.empic.ltd/media/box-2.png
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\box-2.png
+Content Type: image/png
+
+Uri: https://www.empic.ltd/media/EMPIC.pdf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\EMPIC.pdf
+Content Type: application/pdf
+
+Uri: https://www.empic.ltd/media/EMPIC_LTD.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\EMPIC_LTD.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/E_6.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\E_6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/E_9.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\E_9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/favicon.png
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\favicon.png
+Content Type: image/png
+
+Uri: https://www.empic.ltd/media/image-1.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/image-2.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/image-3.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\image-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/image-4.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\image-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/image-5.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\image-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/image-6.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\image-6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/image-8.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\image-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/logo.png
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\logo.png
+Content Type: image/png
+
+Uri: https://www.empic.ltd/media/sector-img1.gif
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\sector-img1.gif
+Content Type: image/gif
+
+Uri: https://www.empic.ltd/media/sector-img2.gif
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\sector-img2.gif
+Content Type: image/gif
+
+Uri: https://www.empic.ltd/media/sector-img3.gif
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\sector-img3.gif
+Content Type: image/gif
+
+Uri: https://www.empic.ltd/media/video-poster.jpg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\video-poster.jpg
+Content Type: image/jpeg
+
+Uri: https://www.empic.ltd/media/video.mp4
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\media\video.mp4
+Content Type: video/mp4
+
+Uri: https://www.empic.ltd/skin.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\skin.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/themekit/css/bootstrap-grid.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\css\bootstrap-grid.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/themekit/css/contact-form.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\css\contact-form.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/themekit/css/content-box.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\css\content-box.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/themekit/css/glide.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\css\glide.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/themekit/css/magnific-popup.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/themekit/css/media-box.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\css\media-box.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/themekit/css/style.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\css\style.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/themekit/media/icons/icons.eot
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.empic.ltd/themekit/media/icons/icons.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.empic.ltd/themekit/media/icons/icons.woff
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\icons.woff
+Content Type: application/font-woff
+
+Uri: https://www.empic.ltd/themekit/media/icons/iconsca27ca27.html?-rdmvgc
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\iconsca27ca27.html
+Content Type: text/html
+
+Uri: https://www.empic.ltd/themekit/media/icons/iconsd41dd41d.eot?
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\iconsd41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.empic.ltd/themekit/media/icons/iconsmind/line-icons-fonts/icomoon.eot
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\iconsmind\line-icons-fonts\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.empic.ltd/themekit/media/icons/iconsmind/line-icons-fonts/icomoon.ttf
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\iconsmind\line-icons-fonts\icomoon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://www.empic.ltd/themekit/media/icons/iconsmind/line-icons-fonts/icomoon.woff
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\iconsmind\line-icons-fonts\icomoon.woff
+Content Type: application/font-woff
+
+Uri: https://www.empic.ltd/themekit/media/icons/iconsmind/line-icons-fonts/icomoonca27ca27.html?-rdmvgc
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\iconsmind\line-icons-fonts\icomoonca27ca27.html
+Content Type: text/html
+
+Uri: https://www.empic.ltd/themekit/media/icons/iconsmind/line-icons-fonts/icomoond41dd41d.eot?
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\iconsmind\line-icons-fonts\icomoond41dd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.empic.ltd/themekit/media/icons/iconsmind/line-icons.min.css
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\icons\iconsmind\line-icons.min.css
+Content Type: text/css
+
+Uri: https://www.empic.ltd/themekit/media/loader.svg
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\media\loader.svg
+Content Type: image/svg+xml
+
+Uri: https://www.empic.ltd/themekit/scripts/glide.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\scripts\glide.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/themekit/scripts/imagesloaded.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\scripts\imagesloaded.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/themekit/scripts/jquery.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\scripts\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/themekit/scripts/magnific-popup.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\scripts\magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/themekit/scripts/main.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\scripts\main.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/themekit/scripts/parallax.min.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\scripts\parallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/themekit/scripts/progress.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\scripts\progress.js
+Content Type: application/x-javascript
+
+Uri: https://www.empic.ltd/themekit/scripts/tab-accordion.js
+File Name: C:\Users\Fisher\Desktop\nn\www.empic.ltd\themekit\scripts\tab-accordion.js
+Content Type: application/x-javascript
+
