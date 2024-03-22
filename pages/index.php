@@ -325,11 +325,8 @@
                                 • All investments and earnings are calculated in USD and are
                                 converted to the appropriate payment method to suit the
                                 investor when withdrawal is being made.<br>
-                                • You can start on any date of the month a􀅌er registration.<br>
-                                • 1000 USD minimum amount to start, no other limits. This
-                                means that there are four different plan with a minimum
-                                investment of 1000 USD and you earn 4.95% weekly
-                                irrespective of any amount you invest.<br>
+                                • You can start on any date of the month after registration.<br>
+
                                 • We will send you a confirmation email once your deposit has
                                 been completed.<br>
                                 • A one time 5% commission charge is attached to every
@@ -422,7 +419,7 @@
                             <li><a href="#">Digital Assets</a></li>
                         </ul>
                         <div class="panel active">
-                            <div class="grid-list" data-columns="2" data-columns-lg="2" data-columns-sm="1">
+                            <div class="grid-list" data-columns="3" data-columns-lg="2" data-columns-sm="1">
                                 <div class="grid-box">
                                     <div class="grid-item">
                                         <div class="cnt-box cnt-box-top-icon boxed">
@@ -441,6 +438,17 @@
                                             <div class="caption">
                                                 <center>
                                                     <h2>Tether Usdt</h2>
+                                                </center>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="grid-item">
+                                        <div class="cnt-box cnt-box-top-icon boxed">
+                                            <img width="80px" src="images/bank-transfer.png" alt="">
+                                            <div class="caption">
+                                                <center>
+                                                    <h2>Fiat</h2>
                                                 </center>
                                             </div>
                                         </div>
@@ -449,7 +457,7 @@
                             </div>
                         </div>
                         <div class="panel">
-                            <div class="grid-list" data-columns="2" data-columns-lg="2" data-columns-sm="1">
+                            <div class="grid-list" data-columns="3" data-columns-lg="2" data-columns-sm="1">
                                 <div class="grid-box">
                                     <div class="grid-item">
                                         <div class="cnt-box cnt-box-top-icon boxed">
@@ -468,6 +476,17 @@
                                             <div class="caption">
                                                 <center>
                                                     <h2>Tether Usdt</h2>
+                                                </center>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="grid-item">
+                                        <div class="cnt-box cnt-box-top-icon boxed">
+                                            <img width="80px" src="images/bank-transfer.png" alt="">
+                                            <div class="caption">
+                                                <center>
+                                                    <h2>Fiat</h2>
                                                 </center>
                                             </div>
                                         </div>
@@ -481,7 +500,7 @@
 
 
 
-            <section class="section-base section-color">
+            <!--<section class="section-base section-color">
                 <div class="container">
                     <div class="title" data-anima="fade-bottom" data-time="1000">
                         <h2> <?php echo $name; ?> Products</h2>
@@ -541,7 +560,7 @@
 
                     </div>
                 </div>
-            </section>
+            </section>-->
 
 
 

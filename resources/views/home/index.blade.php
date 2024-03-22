@@ -197,9 +197,10 @@
                                 <div class="col-lg-8" data-anima="fade-right" data-time="4000">
                                     <h2><span>Our</span> Evolution </h2>
                                     <p>
-                                        We believe that Bitcoin and blockchain networks are landmark innovations that
-                                        will fundamentally reshape the global financial system, and investors should be
-                                        able to participate in this transformation.
+                                        <?php echo $name; ?> is a registered fund investment
+                                        company that manage funds for investors in a way that
+                                        would yield sustainable returns through stocks, shares, forex,
+                                        cannabidiol (CBD) trading, technology and financial planning.
 
                                     </p>
                                     <a href="register" class="btn btn-sm">GET STARTED</a>
@@ -324,11 +325,8 @@
                                 • All investments and earnings are calculated in USD and are
                                 converted to the appropriate payment method to suit the
                                 investor when withdrawal is being made.<br>
-                                • You can start on any date of the month a􀅌er registration.<br>
-                                • 1000 USD minimum amount to start, no other limits. This
-                                means that there are four different plan with a minimum
-                                investment of 1000 USD and you earn 4.95% weekly
-                                irrespective of any amount you invest.<br>
+                                • You can start on any date of the month after registration.<br>
+
                                 • We will send you a confirmation email once your deposit has
                                 been completed.<br>
                                 • A one time 5% commission charge is attached to every
@@ -421,7 +419,7 @@
                             <li><a href="#">Digital Assets</a></li>
                         </ul>
                         <div class="panel active">
-                            <div class="grid-list" data-columns="2" data-columns-lg="2" data-columns-sm="1">
+                            <div class="grid-list" data-columns="3" data-columns-lg="2" data-columns-sm="1">
                                 <div class="grid-box">
                                     <div class="grid-item">
                                         <div class="cnt-box cnt-box-top-icon boxed">
@@ -440,6 +438,17 @@
                                             <div class="caption">
                                                 <center>
                                                     <h2>Tether Usdt</h2>
+                                                </center>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="grid-item">
+                                        <div class="cnt-box cnt-box-top-icon boxed">
+                                            <img width="80px" src="pages/images/bank-transfer.png" alt="">
+                                            <div class="caption">
+                                                <center>
+                                                    <h2>Fiat</h2>
                                                 </center>
                                             </div>
                                         </div>
@@ -480,10 +489,10 @@
 
 
 
-            <section class="section-base section-color">
+            <!--<section class="section-base section-color">
                 <div class="container">
                     <div class="title" data-anima="fade-bottom" data-time="1000">
-                        <h2>Face Of <?php echo $name; ?></h2>
+                        <h2> <?php echo $name; ?> Products</h2>
                         <p></p>
                     </div>
                     <hr class="space-xs">
@@ -540,7 +549,7 @@
 
                     </div>
                 </div>
-            </section>
+            </section>-->
 
 
 
