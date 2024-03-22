@@ -1,6 +1,6 @@
 <?php 
 
-$name = 'Aurora Assets';
+$name = 'Unicorn Growth Network';
 
 $addr = '6543 South Las Vegas Boulevard<br>
 Las Vegas, NV 89119.';
@@ -24,5 +24,4 @@ $chat = '<script src="//code.tidio.co/ertkegfov80zqy9x16x4ah0kw3qya4yh.js" async
 // Default User login: test@crypto.com
 // Password: test_user123 
 // Edit loan.php
-?> 
- 
+?>
