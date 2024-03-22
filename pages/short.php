@@ -20,22 +20,16 @@ $email = 'info@unicorngrowthnetwork.com';
 $chat = '<script src="//code.tidio.co/ertkegfov80zqy9x16x4ah0kw3qya4yh.js" async></script>';
 
 
-// Include the Dotenv library file
-require_once __DIR__ . '/phpdotenv-master/src/Dotenv.php';
-
-// Load environment variables
-$dotenv = Dotenv\Dotenv::createImmutable(__DIR__ . '/../'); // Adjust the path as needed
-$dotenv->load();
-
-// Database configuration
-$dbConfig = [
-    'connection' => $_ENV['DB_CONNECTION'],
-    'host' => $_ENV['DB_HOST'],
-    'port' => $_ENV['DB_PORT'],
-    'database' => $_ENV['DB_DATABASE'],
-    'username' => $_ENV['DB_USERNAME'],
-    'password' => $_ENV['DB_PASSWORD'],
+$config = [
+    'DB_HOST' => '127.0.0.1',
+    'DB_PORT' => 3306,
+    'DB_DATABASE' => 'aurora',
+    'DB_USERNAME' => 'root',
+    'DB_PASSWORD' => '',
+    // Add other configurations here if needed
 ];
+
+return $config;
 
  
  
