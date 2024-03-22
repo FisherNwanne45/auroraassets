@@ -10,6 +10,51 @@
     <section class="section-base section-color">
         <div class="container">
             <div class="row" data-anima="fade-bottom" data-timeline="asc" data-time="2000">
+                <?php
+            // Fetch pricing plans from the database
+            $sql = "SELECT * FROM plans";
+            $result = mysqli_query($connection, $sql);
+
+            if (mysqli_num_rows($result) > 0) {
+                while ($row = mysqli_fetch_assoc($result)) {
+                    echo '<div class="col-lg-4 anima">';
+                    echo '<div class="cnt-box cnt-pricing-table">';
+                    echo '<div class="top-area">';
+                    echo '<h2>' . $row["name"] . '</h2>';
+                    echo '<div class="price"><span>' . $row["interest_rate"] . '</span>%</div>';
+                    echo '<p>Trading Period ' . $row["trading_period"] . ' days</p>';
+                    echo '</div>';
+                    echo '<ul>';
+                    echo '<li>Minimum deposit: $' . $row["min_deposit"] . '</li>';
+                    echo '<li>Maximum deposit: $' . $row["max_deposit"] . '</li>';
+                    echo '<li>ROI: ' . $row["roi"] . '%</li>';
+                    echo '<li>No tax deductions</li>';
+                    echo '<li>Financial planning session</li>';
+                    echo '<li>Referral Commission: ' . $row["referral_commission"] . '%</li>';
+                    echo '<li>Minimum withdrawal: $' . $row["min_withdrawal"] . '</li>';
+                    echo '<li>Withdrawal starts after: ' . $row["withdrawal_period"] . ' days</li>';
+                    echo '<li>Withdrawal charges: ' . ($row["withdrawal_charges"] ? 'YES' : 'NO') . '</li>';
+                    echo '<li>Deposit Principal: ' . ($row["deposit_principal"] ? 'Included' : 'Excluded') . '</li>';
+                    echo '</ul>';
+                    echo '<div class="bottom-area">';
+                    echo '<a class="btn btn-border btn-xs" href="index-13.htm?a=signup">Deposit now</a>';
+                    echo '</div>';
+                    echo '</div>';
+                    echo '</div>';
+                }
+            } else {
+                echo "No pricing plans found";
+            }
+
+            // Close database connection
+            mysqli_close($connection);
+            ?>
+            </div>
+        </div>
+    </section>
+    <!--<section class="section-base section-color">
+        <div class="container">
+            <div class="row" data-anima="fade-bottom" data-timeline="asc" data-time="2000">
                 <div class="col-lg-4 anima">
                     <div class="cnt-box cnt-pricing-table">
                         <div class="top-area">
@@ -83,6 +128,6 @@
             </div>
 
         </div>
-    </section>
+    </section>-->
 </main>
 <?php include "footer.php" ?>

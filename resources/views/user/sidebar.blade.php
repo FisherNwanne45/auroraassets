@@ -11,7 +11,7 @@
                         <span>
                             {{ Auth::user()->name }}
                             {{-- <span class="user-level">{{$settings->site_name }} User</span> --}}
-                            <span class="caret"></span>
+                        <span class="caret"></span>
                         </span>
                     </a>
                     <div class="clearfix"></div>
@@ -33,7 +33,7 @@
                         <p>Dashboard</p>
                     </a>
                 </li>
-                 <li class="nav-item">
+                <li class="nav-item">
                     <a data-toggle="collapse" href="#mpack">
                         <i class="fas fa-cubes"></i>
                         <p>Packages</p>
@@ -53,7 +53,7 @@
                             </li>
                         </ul>
                     </div>
-                </li>  
+                </li>
                 <li class="nav-item">
                     <a data-toggle="collapse" href="#bases">
                         <i class="fas fa-user"></i>
@@ -96,7 +96,7 @@
                         </ul>
                     </div>
                 </li>
-               
+
                 <li class="nav-item">
                     <a href="{{ url('dashboard/tradinghistory') }}">
                         <i class="fa fa-signal " aria-hidden="true"></i>
@@ -109,19 +109,19 @@
                         <p>Transactions history</p>
                     </a>
                 </li>
-                
+
                 <li class="nav-item">
                     <a href="{{ url('dashboard/subtrade') }}">
                         <i class="fa fa-th" aria-hidden="true"></i>
                         <p>Subscription Trade</p>
                     </a>
                 </li>
-                <li class="nav-item">
+                <!--<li class="nav-item">
                     <a href="{{ url('dashboard/support') }}">
                         <i class="fa fa-donate" aria-hidden="true"></i>
                         <p>Loan Request</p>
                     </a>
-                </li>
+                </li>-->
                 <li class="nav-item">
                     <a href="{{ url('dashboard/referuser') }}">
                         <i class="fa fa-recycle " aria-hidden="true"></i>
